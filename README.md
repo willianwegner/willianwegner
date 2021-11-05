@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Sigemec](http://sigemec.com.br/)
 
-- 🌱 I’m currently learning **Ruby, Next.JS**
+- 🌱 I’m currently learning **Ruby, Next.JS, Flutter**
 
 - 👯 I’m looking to collaborate on [BigBlueButton](https://github.com/bigbluebutton/bigbluebutton)
 
